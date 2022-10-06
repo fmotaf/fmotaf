@@ -7,9 +7,16 @@ My name's Fernando, i'm a programmer specialized in Web Framework and Web Scrapi
 
 <p>
 
-Working at **@ellun-digital**<br/>
-Studying at **@UEFS**<br/>
+Working **@ellun-digital**<br/>
+Studying **@UEFS**<br/>
 
-
+Reach out to me:
+<br>  
 </p>
+
+<p>
+  <a href="https://www.linkedin.com/in/fernando-mota-52717a120/" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernando-mota-52717a120/" /></a>
+</p>
+
 <hr>
