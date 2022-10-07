@@ -6,7 +6,6 @@ My name's Fernando, i'm a programmer specialized in
   <li> Python, mainly Web Frameworks like Django </li> 
   <li> Web Scraping </li>
 </ul>
-<br>
 And i'm looking forward to learn:
 <br>
 <ul>
