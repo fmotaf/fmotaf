@@ -8,6 +8,7 @@ My name's Fernando, i'm a programmer specialized in
 </ul>
 <br>
 And i'm looking forward to learn:
+<br>
 <ul>
   <li> Machine Learning Algorithms </li>
   <li> OS Development </li>
