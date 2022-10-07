@@ -8,7 +8,7 @@ My name's Fernando, i'm a programmer specialized in:
 </ul>
 And i'm looking forward to learn:
 <ul>
-  <li> Machine Learning Algorithms </li>
+  <li> Machine Learning </li>
   <li> OS Development </li>
 </ul>
 <img src="https://img.shields.io/static/v1?label=Overview&message=FERNANDO&color=f8efd4&style=for-the-badge&logo=GitHub">
