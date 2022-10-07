@@ -2,9 +2,10 @@
 
 ### Hi there!
 My name's Fernando, i'm a programmer specialized in Python and Web Scraping, and i'm looking forward to learn:
-Machine Learning Algorithms
-OS Development
-
+<ul>
+  <li> Machine Learning Algorithms </li>
+  <li> OS Development </li>
+</ul>
 <img src="https://img.shields.io/static/v1?label=Overview&message=FERNANDO&color=f8efd4&style=for-the-badge&logo=GitHub">
 
 <p>
