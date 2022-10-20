@@ -6,11 +6,7 @@ My name's Fernando, i'm a programmer specialized in:
   <li> Python, mainly Web Frameworks like Django </li> 
   <li> Web Scraping </li>
 </ul>
-And i'm looking forward to learn:
-<ul>
-  <li> Machine Learning </li>
-  <li> Operating System Development </li>
-</ul>
+
 <img src="https://img.shields.io/static/v1?label=Overview&message=FERNANDO&color=f8efd4&style=for-the-badge&logo=GitHub">
 
 <p>
