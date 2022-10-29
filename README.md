@@ -11,7 +11,6 @@ My name's Fernando, i'm a programmer specialized in:
 
 <p>
 
-Working **@ellun-digital**<br/>
 Studying **@UEFS**<br/>
 
 Reach out to me:
