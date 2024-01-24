@@ -9,12 +9,6 @@ My name's Fernando, i'm a programmer currently focused on:
   <li> Linux/DevOps </li>
 </ul>
 
-Next Certifications Goals:
-<ul>
-  <li> LPIC 1/2</li>
-  <li> GCP Cloud Associate </li>
-</ul>
-
 <img src="https://img.shields.io/static/v1?label=Overview&message=FERNANDO&color=f8efd4&style=for-the-badge&logo=GitHub">
 
 <p>
