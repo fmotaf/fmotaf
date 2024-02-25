@@ -13,8 +13,6 @@ My name's Fernando, i'm a programmer currently focused on:
 
 <p>
 
-Studying **@UEFS**<br/>
-
 Reach out to me:
 <br>  
 </p>
